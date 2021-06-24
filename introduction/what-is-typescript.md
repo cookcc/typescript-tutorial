@@ -1,6 +1,6 @@
 # 什么是 TypeScript
 
-> Typed JavaScript at Any Scale.  
+> Typed JavaScript at Any Scale.
 > 添加了类型系统的 JavaScript，适用于任何规模的项目。
 
 以上描述是官网<sup>[[1]](#link-1)</sup>对于 TypeScript 的定义。
@@ -108,7 +108,7 @@ TypeScript 还可以和 JavaScript 共存。这意味着如果你有一个使用
 
 ![what-is-typescript-vue](../assets/what-is-typescript-vue.png)
 
-有一些第三方库原生不支持 TypeScript，但是可以通过安装社区维护的类型声明库<sup>[[9]](#link-9)</sup>（比如通过运行 `npm install --save-dev @types/react` 来安装 React 的类型声明库）来获得代码补全能力——不管是在 JavaScript 项目中还是在 TypeScript 中项目中都是支持的：
+有一些第三方库原生不支持 TypeScript，但是可以通过安装社区维护的类型声明库<sup>[[9]](#link-9)</sup>（比如通过运行 `npm install --save-dev @types/react` 来安装 React 的类型声明库）来获得代码补全能力——不管是在 JavaScript 项目中还是在 TypeScript 项目中都是支持的：
 
 ![what-is-typescript-react](../assets/what-is-typescript-react.png)
 
